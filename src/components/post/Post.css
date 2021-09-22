@@ -1,0 +1,10 @@
+.post {
+    display: flex;
+    flex-flow: column;
+    padding: 5px 25px;
+    border: 1px solid silver;
+}
+
+.post > button {
+    width: 100px;
+}

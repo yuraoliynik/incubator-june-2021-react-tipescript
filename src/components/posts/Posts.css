@@ -1,0 +1,25 @@
+.posts {
+    padding: 20px;
+}
+
+.posts-1 {
+    display: flex;
+    flex-flow: wrap;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    margin-bottom: 20px;
+}
+
+.posts-1 > div {
+    width: 250px;
+}
+
+.posts-2 {
+    display: flex;
+    flex-flow: wrap;
+    grid-column-gap: 5px;
+}
+
+.posts-2 button {
+    width: 100px;
+}

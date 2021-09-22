@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.links {
+  display: flex;
+  flex-flow: column;
+  border-bottom: 2px solid silver;
+}
